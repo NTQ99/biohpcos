@@ -1,0 +1,92 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/noi-that-ngoc-bich-2",
+        "destination": "/noithatngocbich.html"
+      },
+      {
+        "source": "/duong-men",
+        "destination": "/duongmen.html"
+      },
+      {
+        "source": "/dao-huyen",
+        "destination": "/daohuyen.html"
+      },
+      {
+        "source": "/linh-trang",
+        "destination": "/linhtrang.html"
+      },
+      {
+        "source": "/kieu-thuong",
+        "destination": "/kieuthuong.html"
+      },
+      {
+        "source": "/co-meo",
+        "destination": "/comeo.html"
+      },
+      {
+        "source": "/mai-huong",
+        "destination": "/maihuong.html"
+      },
+      {
+        "source": "/nguyen-nhu-ngoc",
+        "destination": "/nguyennhungoc.html"
+      },
+      {
+        "source": "/nguyen-thuy",
+        "destination": "/nguyenthuy.html"
+      },
+      {
+        "source": "/thu-huong",
+        "destination": "/thuhuong.html"
+      },
+      {
+        "source": "/thao-chuyen", 
+        "destination": "/thaochuyen.html"
+      },
+      {
+        "source": "/dinh-thi-thanh", 
+        "destination": "/dinhthithanh.html"
+      },
+      {
+        "source": "/thu-ha", 
+        "destination": "/thuha.html"
+      },
+      {
+        "source": "/huyen-tay", 
+        "destination": "/huyentay.html"
+      },
+      {
+        "source": "/thu-the", 
+        "destination": "/thuthe.html"
+      },
+      {
+        "source": "/ngoc-mai", 
+        "destination": "/ngocmai.html"
+      },
+      {
+        "source": "/ly-ly-vu", 
+        "destination": "/lylyvu.html"
+      }
+    ],
+    "headers": [
+      {
+        "source": "**/*.@(jpg|jpeg|gif|png|svg|webp|js|css|eot|otf|ttf|ttc|woff|woff2|font.css)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=0"
+          }
+        ]
+      }
+    ],
+    "cleanUrls": true
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/dao-huyen",
+        "destination": "/daohuyen.html"
+      },
+      {
+        "source": "/hoa-mai",
+        "destination": "/hoamai.html"
+      },
+      {
+        "source": "/nguyen-thi-trang",
+        "destination": "/nguyenthitrang.html"
+      },
+      {
+        "source": "/an-thi-nhung",
+        "destination": "/anthinhung.html"
+      },
+      {
+        "source": "/hong-nhung",
+        "destination": "/hongnhung.html"
+      },
+      {
+        "source": "/huynh-nhu",
+        "destination": "/huynhnhu.html"
+      },
+      {
+        "source": "/nguyen-duong",
+        "destination": "/nguyenduong.html"
+      },
+      {
+        "source": "/kim-ngan",
+        "destination": "/kimngan.html"
+      },
+      {
+        "source": "/thuy-be",
+        "destination": "/thuybe.html"
+      },
+      {
+        "source": "/nguyen-bich-nu",
+        "destination": "/nguyenbichnu.html"
+      },
+      {
+        "source": "/do-thu-thao",
+        "destination": "/dothuthao.html"
+      },
+      {
+        "source": "/dinh-thi-thuy",
+        "destination": "/dinhthithuy.html"
+      },
+      {
+        "source": "/nguyen-thi-minh",
+        "destination": "/nguyenthiminh.html"
+      }
+    ]
+  }
+}
