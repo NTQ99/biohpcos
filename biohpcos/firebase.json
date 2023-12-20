@@ -58,6 +58,10 @@
       {
         "source": "/nguyen-thi-minh",
         "destination": "/nguyenthiminh.html"
+      },
+      {
+        "source": "/lan-lan",
+        "destination": "/lanlan.html"
       }
     ]
   }
