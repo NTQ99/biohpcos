@@ -62,6 +62,10 @@
       {
         "source": "/lan-lan",
         "destination": "/lanlan.html"
+      },
+      {
+        "source": "/nguyen-nhu-quynh",
+        "destination": "/nguyennhuquynh.html"
       }
     ]
   }
