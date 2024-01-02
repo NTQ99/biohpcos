@@ -60,6 +60,14 @@
         "destination": "/nguyenthiminh.html"
       },
       {
+        "source": "/lan-lan",
+        "destination": "/lanlan.html"
+      },
+      {
+        "source": "/nguyen-nhu-quynh",
+        "destination": "/nguyennhuquynh.html"
+      },
+      {
         "source": "/thao-nguyen",
         "destination": "/thaonguyen.html"
       }
