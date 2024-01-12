@@ -70,6 +70,10 @@
       {
         "source": "/thao-nguyen",
         "destination": "/thaonguyen.html"
+      },
+      {
+        "source": "/hien-truong",
+        "destination": "/hientruong.html"
       }
     ]
   }
