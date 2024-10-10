@@ -74,6 +74,14 @@
       {
         "source": "/hien-truong",
         "destination": "/hientruong.html"
+      },
+      {
+        "source": "/nhan-thi", 
+        "destination": "/nhanthi.html"
+      },
+      {
+        "source": "/nguyen-thu-huyen", 
+        "destination": "/nguyenthuhuyen.html"
       }
     ]
   }

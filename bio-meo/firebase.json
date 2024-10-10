@@ -74,6 +74,14 @@
       {
         "source": "/ly-ly-vu", 
         "destination": "/lylyvu.html"
+      },
+      {
+        "source": "/doan-ha-thao-chuyen", 
+        "destination": "/doanhathaochuyen.html"
+      },
+      {
+        "source": "/gia-dinh-com-com", 
+        "destination": "/giadinhcomcom.html"
       }
     ],
     "headers": [
